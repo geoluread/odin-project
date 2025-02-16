@@ -1,1 +1,2 @@
 Add additional stuff to check the push
+Checking updated git commit
